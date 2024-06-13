@@ -1,4 +1,5 @@
 Bem vindos ao meu perfil.
+
 Meu nome é luiza.
 
 - Tenho 17 anos.
@@ -9,6 +10,7 @@ Meu nome é luiza.
 
  
 Você pode entrar em contato comigo 📫
+
 00001107803652SP@al.educacao.sp.gov.br
 
 
